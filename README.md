@@ -1,4 +1,6 @@
-## Hi there 👋
+## 
+Sou um desenvolvedor Back-end focado em Java, atualmente cursando PÓS TECH pela FIAP em “Arquitetura em Java”.
+Também possuo experiência como desenvolvedor Front-end e Full Stack em sistemas distribuídos, tendo já trabalhado com JavaScript, Django e Codeigniter.
 
 <!--
 **LuskaFer/LuskaFer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
