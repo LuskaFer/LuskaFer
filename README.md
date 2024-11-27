@@ -1,9 +1,15 @@
 ## 
-<h1><strong>LUCAS FERNANDES GODOY | DESENVOLVEDOR</strong> </h1>
-<h4><strong>Sobre:</strong></h4> 
+
+<h4><strong>Sobre mim:</strong></h4> 
 Sou um desenvolvedor Back-end focado em Java, atualmente cursando PÓS TECH pela FIAP em “Arquitetura em Java”.
 Também possuo experiência como desenvolvedor Front-end e Full Stack em sistemas distribuídos, tendo já trabalhado com JavaScript, Django e Codeigniter.
 
+<h4><strong>Formação:</strong></h4> 
+<strong>PÓS - Arquitetura e Desenvolvimento em JAVA - FIAP (Ago/2024 | Cursando)
+Análise e Desenvolvimento de Sistemas - FIAP (Jan/2020 - Dez/2021)
+Design Gráfico - UNIP (Jan/2018 - Dez/2019) 
+Técnico em Informática - SENAC (Concluído em Dezembro de 2014)
+Técnico em Administração - ETEC SJC Centro Paula Souza (Concluído em Dezembro de 2014)</strong>
 <!--
 **LuskaFer/LuskaFer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
