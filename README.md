@@ -1,12 +1,12 @@
 ## 
 
 <h4><strong>Sobre mim:</strong></h4> 
-Sou um desenvolvedor Back-end focado em Java, atualmente cursando PÓS TECH pela FIAP em “Arquitetura em Java”.
-Também possuo experiência como desenvolvedor Front-end e Full Stack em sistemas distribuídos, tendo já trabalhado com JavaScript, Django e Codeigniter.
+Sou um desenvolvedor <strong>Back-end</strong> focado em <strong>Java</strong>, atualmente cursando <strong>PÓS TECH</strong> pela FIAP em “Arquitetura em Java”.
+Também possuo experiência como desenvolvedor <strong>Front-end</strong> e <strong>Full Stack</strong> em sistemas distribuídos, tendo já trabalhado com JavaScript, Django e Codeigniter.
 
 <h4><strong>Formação:</strong></h4> 
 <ol>
-<li><strong>PÓS - Arquitetura e Desenvolvimento em JAV</strong>A - FIAP (Ago/2024 | Cursando)</li>
+<li><strong>PÓS - Arquitetura e Desenvolvimento em JAVA</strong> - FIAP (Ago/2024 | Cursando)</li>
   
 <li><strong>Análise e Desenvolvimento de Sistemas</strong> - FIAP (Jan/2020 - Dez/2021)</li>
 
