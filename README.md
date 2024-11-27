@@ -1,5 +1,6 @@
 ## 
-<h1><strong>Sobre:</strong></h1> 
+<h1><strong>LUCAS FERNANDES GODOY | DESENVOLVEDOR</strong> </h1>
+<h4><strong>Sobre:</strong></h4> 
 Sou um desenvolvedor Back-end focado em Java, atualmente cursando PÓS TECH pela FIAP em “Arquitetura em Java”.
 Também possuo experiência como desenvolvedor Front-end e Full Stack em sistemas distribuídos, tendo já trabalhado com JavaScript, Django e Codeigniter.
 
