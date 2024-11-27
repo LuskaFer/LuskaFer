@@ -5,7 +5,7 @@ Sou um desenvolvedor <strong>Back-end</strong> focado em <strong>Java</strong>, 
 Também possuo experiência como desenvolvedor <strong>Front-end</strong> e <strong>Full Stack</strong> em sistemas distribuídos, tendo já trabalhado com JavaScript, Django e Codeigniter.
 
 <h4><strong>Formação:</strong></h4> 
-<ol>
+<ul>
 <li><strong>PÓS - Arquitetura e Desenvolvimento em JAVA</strong> - FIAP (Ago/2024 | Cursando)</li>
   
 <li><strong>Análise e Desenvolvimento de Sistemas</strong> - FIAP (Jan/2020 - Dez/2021)</li>
@@ -15,7 +15,7 @@ Também possuo experiência como desenvolvedor <strong>Front-end</strong> e <str
 <li><strong>Técnico em Informática</strong> - SENAC (Concluído em Dezembro de 2014)</li>
 
 <li><strong>Técnico em Administração</strong> - ETEC SJC Centro Paula Souza (Concluído em Dezembro de 2014)</li>
-</ol>
+</ul>
 
 
 
