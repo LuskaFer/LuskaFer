@@ -6,11 +6,15 @@ Também possuo experiência como desenvolvedor Front-end e Full Stack em sistema
 
 <h4><strong>Formação:</strong></h4> 
 <ol>
-<li><strong>PÓS - Arquitetura e Desenvolvimento em JAVA - FIAP (Ago/2024 | Cursando)</li>
-<li>Análise e Desenvolvimento de Sistemas - FIAP (Jan/2020 - Dez/2021)</li>
-<li>Design Gráfico - UNIP (Jan/2018 - Dez/2019) </li>
-<li>Técnico em Informática - SENAC (Concluído em Dezembro de 2014)</li>
-<li>Técnico em Administração - ETEC SJC Centro Paula Souza (Concluído em Dezembro de 2014)</strong></li>
+<li><strong>PÓS - Arquitetura e Desenvolvimento em JAV</strong>A - FIAP (Ago/2024 | Cursando)</li>
+  
+<li><strong>Análise e Desenvolvimento de Sistemas</strong> - FIAP (Jan/2020 - Dez/2021)</li>
+
+<li><strong>Design Gráfico</strong> - UNIP (Jan/2018 - Dez/2019) </li>
+
+<li><strong>Técnico em Informática</strong> - SENAC (Concluído em Dezembro de 2014)</li>
+
+<li><strong>Técnico em Administração</strong> - ETEC SJC Centro Paula Souza (Concluído em Dezembro de 2014)</li>
 </ol>
 
 
