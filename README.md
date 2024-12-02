@@ -3,6 +3,7 @@
 <h4><strong>Sobre mim:</strong></h4> 
 Sou um desenvolvedor <strong>Back-end</strong> focado em <strong>Java</strong>, atualmente cursando <strong>PÓS TECH</strong> pela FIAP em “Arquitetura em Java”.
 Também possuo experiência como desenvolvedor <strong>Front-end</strong> e <strong>Full Stack</strong> em sistemas distribuídos, tendo já trabalhado com JavaScript, Django e Codeigniter.
+Sou um entusiasta de inteligência artificial, com curso realizado na USP sobre o tema.
 
 <h4><strong>Formação:</strong></h4> 
 <ul>
