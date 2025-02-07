@@ -1,5 +1,8 @@
 # 📍 Sobre mim:
 <br>Sou um desenvolvedor Back-end focado em Java, atualmente cursando PÓS TECH pela FIAP em “Arquitetura em Java”. <br>Também possuo experiência como desenvolvedor Front-end e Full Stack em sistemas distribuídos, tendo já trabalhado com JavaScript, Django e Codeigniter. <br> Sou um entusiasta de inteligência artificial, com curso realizado pela USP sobre o tema. <br> <br>🔭 Atualmente trabalhando em: PÓS TECH | FIAP <br><br>🌱 Atualmente estudando: JAVA <br><br>⚡ Fato aleatório: "Des de criança modifico jogos e crio servidores dos mesmo por diversão e para aprendizagem"
+# 
+I am a Back-end developer focused on Java,currently pursuing a POST TECH at FIAP in "Java Architecture."<br>I also have experience as a Front-end and Full Stack developer in distributed systems, having worked with JavaScript, Django, and CodeIgniter.<br> I am an AI enthusiast, with a course completed at USP on the subject.<br><br>🔭 Currently working on: POST TECH | FIAP <br> <br>🌱 Currently studying: JAVA  <br><br>⚡ Random fact: "Since childhood, I've been modifying games and creating servers for them for fun and learning."
+
 ###
 
 <br clear="both">
@@ -8,9 +11,6 @@
 
 ###
 
-I am a Back-end developer focused on Java,currently pursuing a POST TECH at FIAP in "Java Architecture."<br>I also have experience as a Front-end and Full Stack developer in distributed systems, having worked with JavaScript, Django, and CodeIgniter.<br> I am an AI enthusiast, with a course completed at USP on the subject.<br><br>🔭 Currently working on: POST TECH | FIAP <br> <br>🌱 Currently studying: JAVA  <br><br>⚡ Random fact: "Since childhood, I've been modifying games and creating servers for them for fun and learning."
-
-
 
 # 📚 Formação acadêmica:
 <br> 
@@ -18,7 +18,7 @@ I am a Back-end developer focused on Java,currently pursuing a POST TECH at FIAP
 ### 📕Pós Graduação: <br> 
 Arquitetura e Desenvolvimento em Java | FIAP |2024 - 2025 (Cursando) | <br> 
 
-### 📗 Tecnólogo: <br> 
+### 📗Tecnólogo: <br> 
 Analise e Desenvolvimento de Sistemas | FIAP | 2020 - 2021 | <br><br>
 Design Gráfico | UNIP | 2019 - 2018 | <br><br>
 
@@ -27,7 +27,7 @@ Design Gráfico | UNIP | 2019 - 2018 | <br><br>
 ### 📕Postgraduate: <br> 
 Architecture and Development in Java | FIAP | 2024 - 2025 (Ongoing) <br> 
 
-### 📗 Bachelor's Degree: <br> 
+### 📗Bachelor's Degree: <br> 
 Systems Analysis and Development | FIAP | 2020 - 2021 | <br><br>
 Graphic Design | UNIP | 2019 - 2018 | <br><br>
 # 
