@@ -15,7 +15,7 @@ I am a Back-end developer focused on Java,currently pursuing a POST TECH at FIAP
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/luskafer/luskafer/output/snake.svg" alt="Snake animation" />
 
 ###
 
