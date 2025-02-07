@@ -1,5 +1,5 @@
 # 📍 Sobre mim:
-<br>Sou um desenvolvedor Back-end focado em Java, atualmente cursando PÓS TECH pela FIAP em “Arquitetura em Java”. <br>Também possuo experiência como desenvolvedor Front-end e Full Stack em sistemas distribuídos, tendo já trabalhado com JavaScript, Django e Codeigniter. <br> Sou um entusiasta de inteligência artificial, com curso realizado pela USP sobre o tema. <br> <br>🔭 Atualmente trabalhando em: PÓS TECH | FIAP <br><br>🌱 Atualmente estudando: JAVA <br><br>⚡ Fato aleatório: "Des de criança modifico jogos e crio servidores dos mesmo por diversão e para aprendizagem"<br><br>
+<br>Sou um desenvolvedor Back-end focado em Java, atualmente cursando PÓS TECH pela FIAP em “Arquitetura em Java”. <br>Também possuo experiência como desenvolvedor Front-end e Full Stack em sistemas distribuídos, tendo já trabalhado com JavaScript, Django e Codeigniter. <br> Sou um entusiasta de inteligência artificial, com curso realizado pela USP sobre o tema. <br> <br>🔭 Atualmente trabalhando em: PÓS TECH | FIAP <br><br>🌱 Atualmente estudando: JAVA <br><br>⚡ Fato aleatório: "Des de criança modifico jogos e crio servidores dos mesmo por diversão e para aprendizagem"
 ###
 
 <br clear="both">
@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/luskafer/luskafer/output/snake.svg" alt="Snake animation" />
 
 ###
-<br> <br>
+
 I am a Back-end developer focused on Java,currently pursuing a POST TECH at FIAP in "Java Architecture."<br>I also have experience as a Front-end and Full Stack developer in distributed systems, having worked with JavaScript, Django, and CodeIgniter.<br> I am an AI enthusiast, with a course completed at USP on the subject.<br><br>🔭 Currently working on: POST TECH | FIAP <br> <br>🌱 Currently studying: JAVA  <br><br>⚡ Random fact: "Since childhood, I've been modifying games and creating servers for them for fun and learning."
 
 
