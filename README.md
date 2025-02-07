@@ -22,10 +22,10 @@ Arquitetura e Desenvolvimento em Java | FIAP |2024 - 2025 (Cursando) | <br>
 Analise e Desenvolvimento de Sistemas | FIAP | 2020 - 2021 | <br><br>
 Design Gráfico | UNIP | 2019 - 2018 | <br><br> 
 
-# Postgraduate: <br> 
+## Postgraduate: <br> 
 Architecture and Development in Java | FIAP | 2024 - 2025 (Ongoing) <br> 
 
-# Bachelor's Degree: <br> 
+## Bachelor's Degree: <br> 
 Systems Analysis and Development | FIAP | 2020 - 2021 | <br><br>
 Graphic Design | UNIP | 2019 - 2018 | <br><br>
 # 
