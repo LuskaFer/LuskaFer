@@ -10,6 +10,7 @@
 
 I am a Back-end developer focused on Java,currently pursuing a POST TECH at FIAP in "Java Architecture."<br>I also have experience as a Front-end and Full Stack developer in distributed systems, having worked with JavaScript, Django, and CodeIgniter.<br> I am an AI enthusiast, with a course completed at USP on the subject.<br><br>🔭 Currently working on: POST TECH | FIAP <br> <br>🌱 Currently studying: JAVA  <br><br>⚡ Random fact: "Since childhood, I've been modifying games and creating servers for them for fun and learning."
 
+# 📍 Formação acadêmica:
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-fernandes22/) 
@@ -30,9 +31,10 @@ I am a Back-end developer focused on Java,currently pursuing a POST TECH at FIAP
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Luskafer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Luskafer&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=Luskafer&icon=0&color=0)](https://visitcount.itsvg.in)
 
