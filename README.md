@@ -12,7 +12,14 @@ I am a Back-end developer focused on Java,currently pursuing a POST TECH at FIAP
 
 
 
-# 📍 Formação acadêmica:
+# 📚 Formação acadêmica:
+<br>##Pós Graduação: <br>
+Arquitetura e Desenvolvimento em Java | FIAP |2024 - 2025 (Cursando) | <br><br>
+
+
+<br>##Tecnologo: <br>
+Analise e Desenvolvimento de Sistemas | FIAP | 2020 - 2021 | <br><br>
+Design Gráfico | UNIP | 2019 - 2018 | <br><br> 
 
 # 
 
