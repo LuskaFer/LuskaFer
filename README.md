@@ -1,7 +1,25 @@
-# 📍 Sobre mim | About me :
-<br>Me chamo Lucas Fernandes Godoy, tenho 27 anos e sou um desenvolvedor Back-end focado em Java, atualmente cursando PÓS TECH pela FIAP em “Arquitetura em Java”. <br>Também possuo experiência como desenvolvedor Front-end e Full Stack em sistemas distribuídos, tendo já trabalhado com JavaScript, Django e Codeigniter. <br> Sou um entusiasta de inteligência artificial, com curso realizado pela USP sobre o tema. <br> <br>🔭 Atualmente trabalhando em: PÓS TECH | FIAP <br><br>🌱 Atualmente estudando: JAVA <br><br>⚡ Fato aleatório: "Des de criança modifico jogos e crio servidores dos mesmo por diversão e para aprendizagem"
-# 
-My name is Lucas Fernandes Godoy, I am 27 years old, and I am a Back-end developer focused on Java, currently pursuing a POST TECH at FIAP in "Java Architecture."<br>I also have experience as a Front-end and Full Stack developer in distributed systems, having worked with JavaScript, Django, and CodeIgniter.<br> I am an AI enthusiast, with a course completed at USP on the subject.<br><br>🔭 Currently working on: POST TECH | FIAP <br> <br>🌱 Currently studying: JAVA  <br><br>⚡ Random fact: "Since childhood, I've been modifying games and creating servers for them for fun and learning."
+### 📍 About Me
+
+My name is **Lucas Fernandes Godoy**, I'm 27 years old and a developer currently focused on **Java**. I'm pursuing a postgraduate degree at **FIAP (PÓS TECH)** in **"Java Architecture"**.  
+I also have experience as a **Front-end and Full Stack developer** in distributed systems, having worked with **JavaScript, Django, and CodeIgniter**.  
+I'm an **AI enthusiast**, and I completed a course on Artificial Intelligence at **USP (University of São Paulo)**.
+
+🔭 **Currently working at:** Municipality of São José dos Campos — Computer Science  
+🌱 **Currently learning:** Java  
+⚡ **Fun fact:** Since childhood, I've enjoyed modifying games and creating private servers — for both fun and learning.
+
+---
+
+### 📍 Sobre mim
+
+Me chamo **Lucas Fernandes Godoy**, tenho 27 anos e sou um desenvolvedor atualmente focado em **Java**. Estou cursando uma pós-graduação (**PÓS TECH**) pela **FIAP** em **"Arquitetura em Java"**.  
+Também tenho experiência como **desenvolvedor Front-end e Full Stack** em sistemas distribuídos, tendo trabalhado com **JavaScript, Django e CodeIgniter**.  
+Sou um **entusiasta de inteligência artificial** e concluí um curso sobre o tema pela **USP (Universidade de São Paulo)**.
+
+🔭 **Atualmente trabalhando em:** Prefeitura de São José dos Campos — área de Ciência da Computação  
+🌱 **Atualmente estudando:** Java  
+⚡ **Fato aleatório:** Desde criança modifico jogos e crio servidores por diversão e aprendizado.
+
 
 ###
 
