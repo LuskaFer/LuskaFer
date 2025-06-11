@@ -1,7 +1,7 @@
 ### 📍 About Me
 
 My name is **Lucas Fernandes Godoy**, I'm 27 years old and a developer currently focused on **Java**. I'm pursuing a postgraduate degree at **FIAP (PÓS TECH)** in **"Java Architecture"**.  
-I also have experience as a **Front-end and Full Stack developer** in distributed systems, having worked with **JavaScript, Django, and CodeIgniter**.  
+I also have experience as a **Front-end and Full Stack developer** in distributed systems, having worked with **JavaScript, Django, Laravel and CodeIgniter**.  
 I'm an **AI enthusiast**, and I completed a course on Artificial Intelligence at **USP (University of São Paulo)**.
 
 🔭 **Currently working at:** Municipality of São José dos Campos — Computer Science  
@@ -13,7 +13,7 @@ I'm an **AI enthusiast**, and I completed a course on Artificial Intelligence at
 ### 📍 Sobre mim
 
 Me chamo **Lucas Fernandes Godoy**, tenho 27 anos e sou um desenvolvedor atualmente focado em **Java**. Estou cursando uma pós-graduação (**PÓS TECH**) pela **FIAP** em **"Arquitetura em Java"**.  
-Também tenho experiência como **desenvolvedor Front-end e Full Stack** em sistemas distribuídos, tendo trabalhado com **JavaScript, Django e CodeIgniter**.  
+Também tenho experiência como **desenvolvedor Front-end e Full Stack** em sistemas distribuídos, tendo trabalhado com **JavaScript, Django, Laravel e CodeIgniter**.  
 Sou um **entusiasta de inteligência artificial** e concluí um curso sobre o tema pela **USP (Universidade de São Paulo)**.
 
 🔭 **Atualmente trabalhando em:** Prefeitura de São José dos Campos — área de Ciência da Computação  
