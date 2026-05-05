@@ -51,7 +51,8 @@ Analise e Desenvolvimento de Sistemas | FIAP | 2020 - 2021 |
 
 Design Gráfico | UNIP | 2018 - 2019 |
 
-<br>
+# 
+
 ### 📗Postgraduate: 
 
 Architecture and Development in Java | FIAP | 2024 - 2025 |
