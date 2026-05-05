@@ -35,8 +35,6 @@ Tenho experiência consolidada como desenvolvedor Full Stack em sistemas distrib
 ###
 
 
-# 📚 Formação acadêmica | Education :
-<br> 
 
 ### 📗Pós Graduação: <br> 
 Arquitetura e Desenvolvimento em Java | FIAP |2024 - 2025 (Cursando) | <br> 
@@ -55,6 +53,36 @@ Systems Analysis and Development | FIAP | 2020 - 2021 | <br><br>
 Graphic Design | UNIP | 2019 - 2018 | <br><br>
 # 
 
+
+# 📚 Formação acadêmica | Education :
+<br> 
+
+###📗Pós Graduação: 
+
+Arquitetura e Desenvolvimento em Java | FIAP | 2024 - 2025 |
+
+###📕Tecnólogo: 
+
+Inteligência Artificial | Anhembi | 2026 - 2028 (Cursando) |
+
+Analise e Desenvolvimento de Sistemas | FIAP | 2020 - 2021 |
+
+Design Gráfico | UNIP | 2018 - 2019 |
+
+<br>
+###📗Postgraduate: 
+
+Architecture and Development in Java | FIAP | 2024 - 2025 |
+
+###📕Bachelor's Degree: 
+
+Artificial Intelligence | Anhembi | 2026 - 2028 (Ongoing) |
+
+Systems Analysis and Development | FIAP | 2020 - 2021 |
+
+Graphic Design | UNIP | 2018 - 2019 |
+
+#
 
 <!--
 ### 🔝 Top Contributed Repo
