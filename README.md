@@ -1,7 +1,7 @@
 
-###
 
-📍 About Me
+
+### 📍 About Me
 
 
 My name is Lucas Fernandes Godoy, I'm 28 years old and a developer focused on IA | Java | Next. I'm currently pursuing a degree in Artificial Intelligence at Anhembi Morumbi and hold a postgraduate degree in "Java Architecture" from FIAP (PÓS TECH).
@@ -16,7 +16,7 @@ I have extensive experience as a Full Stack developer in distributed systems, ha
 
 
 
-📍 Sobre mim
+### 📍 Sobre mim
 
 
 Me chamo Lucas Fernandes Godoy, tenho 28 anos e sou um desenvolvedor com foco atual em IA | Java | Next. Estou cursando graduação em Inteligência Artificial pela Anhembi Morumbi e sou pós-graduado (PÓS TECH) pela FIAP em "Arquitetura em Java".
