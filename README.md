@@ -9,8 +9,7 @@ My name is Lucas Fernandes Godoy, I'm 28 years old and a developer focused on **
 
 I have extensive experience as a Full Stack developer in distributed systems, currently working with **Java**, **Spring Boot**, **Clean Architecture (CA)**, and **Domain-Driven Design (DDD)**. My historical background also includes JavaScript, Django, Laravel, and CodeIgniter.
 
-📬 **Connect with me:**
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/lucas-fernandes22/)
 
 ---
 
@@ -24,12 +23,9 @@ Tenho experiência consolidada como desenvolvedor Full Stack em sistemas distrib
 
 ### 🛠️ Tech Stack & Methodologies
 
-
-| Category | Technologies |
-| :--- | :--- |
-| **Core & Backend** | ![Java](https://shields.io) ![Spring Boot](https://shields.io) ![Django](https://shields.io) ![Laravel](https://shields.io) |
-| **Frontend** | ![Next.js](https://shields.io) ![JavaScript](https://shields.io) |
-| **Architecture** | `Domain-Driven Design (DDD)` `Clean Architecture (CA)` `Distributed Systems` |
+* **Core & Backend:** Java, Spring Boot, Django, Laravel, CodeIgniter
+* **Frontend:** Next.js, JavaScript
+* **Architecture:** Domain-Driven Design (DDD), Clean Architecture (CA), Distributed Systems
 
 ---
 
@@ -40,9 +36,6 @@ Tenho experiência consolidada como desenvolvedor Full Stack em sistemas distrib
 * ⚡ **Fun fact:** Since childhood, I've enjoyed modifying games and creating private servers — for both fun and learning.
 
 <br clear="both">
-
-<img src="https://githubusercontent.com" alt="Snake animation" />
-
 
 
 ### 📚 Formação acadêmica | Education :
