@@ -1,38 +1,50 @@
 
 
 
+# 💻 Lucas Fernandes Godoy
+> Developer focused on AI | Java Architecture | Next.js
+
+---
+
 ### 📍 About Me
 
+My name is Lucas Fernandes Godoy, I'm 28 years old and a developer focused on **AI | Java | Next**. I'm currently pursuing a degree in Artificial Intelligence at Anhembi Morumbi and hold a postgraduate degree in "Java Architecture" from FIAP (PÓS TECH).
 
-My name is Lucas Fernandes Godoy, I'm 28 years old and a developer focused on IA | Java | Next. I'm currently pursuing a degree in Artificial Intelligence at Anhembi Morumbi and hold a postgraduate degree in "Java Architecture" from FIAP (PÓS TECH).
+I have extensive experience as a Full Stack developer in distributed systems, currently working with **Java**, **Spring Boot**, **Clean Architecture (CA)**, and **Domain-Driven Design (DDD)**. My historical background also includes JavaScript, Django, Laravel, and CodeIgniter.
 
-I have extensive experience as a Full Stack developer in distributed systems, having worked with JavaScript, Django, Laravel, and CodeIgniter.
+📬 **Connect with me:**
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 
-🔭 Currently working at: Municipality of São José dos Campos — Computer Science
-
-🌱 Currently learning: Artificial Intelligence & Next.js
-
-⚡ Fun fact: Since childhood, I've enjoyed modifying games and creating private servers — for both fun and learning.
-
-
+---
 
 ### 📍 Sobre mim
 
+Me chamo Lucas Fernandes Godoy, tenho 28 anos e sou um desenvolvedor com foco atual em **IA | Java | Next**. Estou cursando graduação em Inteligência Artificial pela Anhembi Morumbi e sou pós-graduado (PÓS TECH) pela FIAP em "Arquitetura em Java".
 
-Me chamo Lucas Fernandes Godoy, tenho 28 anos e sou um desenvolvedor com foco atual em IA | Java | Next. Estou cursando graduação em Inteligência Artificial pela Anhembi Morumbi e sou pós-graduado (PÓS TECH) pela FIAP em "Arquitetura em Java".
+Tenho experiência consolidada como desenvolvedor Full Stack em sistemas distribuídos, atuando hoje com **Java**, **Spring Boot**, **Clean Architecture (CA)** e **Domain-Driven Design (DDD)**. Meu histórico também inclui JavaScript, Django, Laravel e CodeIgniter.
 
-Tenho experiência consolidada como desenvolvedor Full Stack em sistemas distribuídos, com histórico em JavaScript, Django, Laravel e CodeIgniter.
+---
 
-🔭 Atualmente trabalhando em: Prefeitura de São José dos Campos — área de Ciência da Computação
+### 🛠️ Tech Stack & Methodologies
 
-🌱 Atualmente estudando: Inteligência Artificial & Next.js
 
-⚡ Fato aleatório: Desde criança modifico jogos e crio servidores por diversão e aprendizado.
+| Category | Technologies |
+| :--- | :--- |
+| **Core & Backend** | ![Java](https://shields.io) ![Spring Boot](https://shields.io) ![Django](https://shields.io) ![Laravel](https://shields.io) |
+| **Frontend** | ![Next.js](https://shields.io) ![JavaScript](https://shields.io) |
+| **Architecture** | `Domain-Driven Design (DDD)` `Clean Architecture (CA)` `Distributed Systems` |
+
+---
+
+### ⚙️ Status
+
+* 🔭 **Currently working at:** Municipality of São José dos Campos — Computer Science
+* 🌱 **Currently learning:** Artificial Intelligence & Next.js
+* ⚡ **Fun fact:** Since childhood, I've enjoyed modifying games and creating private servers — for both fun and learning.
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/luskafer/luskafer/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://githubusercontent.com" alt="Snake animation" />
 
 
 
