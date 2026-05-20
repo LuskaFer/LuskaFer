@@ -1,6 +1,3 @@
-
-
-
 # 💻 Lucas Fernandes Godoy
 > Developer focused on AI | Java Architecture | Next.js
 
