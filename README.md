@@ -5,7 +5,7 @@
 
 ### 📍 About Me
 
-My name is Lucas Fernandes Godoy, I'm 28 years old and a developer focused on **AI | Java | Next**. I'm currently pursuing a degree in Artificial Intelligence at Anhembi Morumbi and hold a postgraduate degree in "Java Architecture" from FIAP (PÓS TECH).
+My name is Lucas Fernandes Godoy, I'm 29 years old and a developer focused on **AI | Java | Next**. I'm currently pursuing a degree in Artificial Intelligence at Anhembi Morumbi and hold a postgraduate degree in "Java Architecture" from FIAP (PÓS TECH).
 
 I have extensive experience as a Full Stack developer in distributed systems, currently working with **Java**, **Spring Boot**, **Clean Architecture (CA)**, and **Domain-Driven Design (DDD)**. My historical background also includes JavaScript, Django, Laravel, and CodeIgniter.
 
@@ -15,7 +15,7 @@ I have extensive experience as a Full Stack developer in distributed systems, cu
 
 ### 📍 Sobre mim
 
-Me chamo Lucas Fernandes Godoy, tenho 28 anos e sou um desenvolvedor com foco atual em **IA | Java | Next**. Estou cursando graduação em Inteligência Artificial pela Anhembi Morumbi e sou pós-graduado (PÓS TECH) pela FIAP em "Arquitetura em Java".
+Me chamo Lucas Fernandes Godoy, tenho 29 anos e sou um desenvolvedor com foco atual em **IA | Java | Next**. Estou cursando graduação em Inteligência Artificial pela Anhembi Morumbi e sou pós-graduado (PÓS TECH) pela FIAP em "Arquitetura em Java".
 
 Tenho experiência consolidada como desenvolvedor Full Stack em sistemas distribuídos, atuando hoje com **Java**, **Spring Boot**, **Clean Architecture (CA)** e **Domain-Driven Design (DDD)**. Meu histórico também inclui JavaScript, Django, Laravel e CodeIgniter.
 
