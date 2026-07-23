@@ -9,7 +9,7 @@ My name is Lucas Fernandes Godoy, I'm 29 years old and a developer focused on **
 
 I have extensive experience as a Full Stack developer in distributed systems, currently working with **Java**, **Spring Boot**, **Clean Architecture (CA)**, and **Domain-Driven Design (DDD)**. My historical background also includes JavaScript, Django, Laravel, and CodeIgniter.
 
-📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/lucas-fernandes22/)
+📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/lucas-fernandes22/) | [Canva](https://luskafer.vercel.app/)
 
 ---
 
@@ -19,6 +19,8 @@ Me chamo Lucas Fernandes Godoy, tenho 29 anos e sou um desenvolvedor com foco at
 
 Tenho experiência consolidada como desenvolvedor Full Stack em sistemas distribuídos, atuando hoje com **Java**, **Spring Boot**, **Clean Architecture (CA)** e **Domain-Driven Design (DDD)**. Meu histórico também inclui JavaScript, Django, Laravel e CodeIgniter.
 
+ 📬  **Entre em contato:** [LinkedIn](https://www.linkedin.com/in/lucas-fernandes22/) | [Portfólio](https://luskafer.vercel.app/).
+ 
 ---
 
 ### 🛠️ Tech Stack & Methodologies
