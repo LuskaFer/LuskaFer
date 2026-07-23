@@ -1,5 +1,5 @@
 # 💻 Lucas Fernandes Godoy
-> Developer focused on AI | Java Architecture | Next.js
+> Developer Full Stack focused on AI | Java Architecture | React | -> https://luskafer.vercel.app/
 
 ---
 
