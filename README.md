@@ -3,21 +3,17 @@
 
 ---
 
-###📍 About Me
+### 📍 About Me
 
 My name is Lucas Fernandes Godoy. I am a 29-year-old developer currently focused on AI | Java | PHP | React. I am pursuing a Bachelor's degree in Artificial Intelligence at Anhembi Morumbi and hold a postgraduate degree in Java Architecture from FIAP.
 
 I have solid experience as a Full Stack developer building distributed systems. While my past experience includes working extensively with PHP (Laravel, CodeIgniter), JavaScript, and Django, my current work and core expertise are centered around Java, Spring Boot, Clean Architecture (CA), and Domain-Driven Design (DDD).
-
-📬 Connect with me: LinkedIn | Canva
 
 ### 📍 Sobre mim
 
 Meu nome é Lucas Fernandes Godoy, tenho 29 anos e sou um desenvolvedor com foco em IA | Java | PHP | React. Atualmente, curso Bacharelado em Inteligência Artificial na Anhembi Morumbi e sou pós-graduado em Arquitetura em Java pela FIAP.
 
 Tenho experiência consolidada como desenvolvedor Full Stack construindo sistemas distribuídos. Embora meu histórico inclua bastante vivência com PHP (Laravel, CodeIgniter), JavaScript e Django, hoje atuo e me especializo principalmente em Java, Spring Boot, Clean Architecture (CA) e Domain-Driven Design (DDD).
-
-📬 Conecte-se comigo: LinkedIn | Canva
  
 ---
 
