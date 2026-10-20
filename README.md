@@ -3,30 +3,28 @@
 
 ---
 
-### 📍 About Me
+###📍 About Me
 
-My name is Lucas Fernandes Godoy, I'm 29 years old and a developer focused on **AI | Java | Next**. I'm currently pursuing a degree in Artificial Intelligence at Anhembi Morumbi and hold a postgraduate degree in "Java Architecture" from FIAP (PÓS TECH).
+My name is Lucas Fernandes Godoy. I am a 29-year-old developer currently focused on AI | Java | PHP | React. I am pursuing a Bachelor's degree in Artificial Intelligence at Anhembi Morumbi and hold a postgraduate degree in Java Architecture from FIAP.
 
-I have extensive experience as a Full Stack developer in distributed systems, currently working with **Java**, **Spring Boot**, **Clean Architecture (CA)**, and **Domain-Driven Design (DDD)**. My historical background also includes JavaScript, Django, Laravel, and CodeIgniter.
+I have solid experience as a Full Stack developer building distributed systems. While my past experience includes working extensively with PHP (Laravel, CodeIgniter), JavaScript, and Django, my current work and core expertise are centered around Java, Spring Boot, Clean Architecture (CA), and Domain-Driven Design (DDD).
 
-📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/lucas-fernandes22/) | [Canva](https://luskafer.vercel.app/)
-
----
+📬 Connect with me: LinkedIn | Canva
 
 ### 📍 Sobre mim
 
-Me chamo Lucas Fernandes Godoy, tenho 29 anos e sou um desenvolvedor com foco atual em **IA | Java | Next**. Estou cursando graduação em Inteligência Artificial pela Anhembi Morumbi e sou pós-graduado (PÓS TECH) pela FIAP em "Arquitetura em Java".
+Meu nome é Lucas Fernandes Godoy, tenho 29 anos e sou um desenvolvedor com foco em IA | Java | PHP | React. Atualmente, curso Bacharelado em Inteligência Artificial na Anhembi Morumbi e sou pós-graduado em Arquitetura em Java pela FIAP.
 
-Tenho experiência consolidada como desenvolvedor Full Stack em sistemas distribuídos, atuando hoje com **Java**, **Spring Boot**, **Clean Architecture (CA)** e **Domain-Driven Design (DDD)**. Meu histórico também inclui JavaScript, Django, Laravel e CodeIgniter.
+Tenho experiência consolidada como desenvolvedor Full Stack construindo sistemas distribuídos. Embora meu histórico inclua bastante vivência com PHP (Laravel, CodeIgniter), JavaScript e Django, hoje atuo e me especializo principalmente em Java, Spring Boot, Clean Architecture (CA) e Domain-Driven Design (DDD).
 
- 📬  **Entre em contato:** [LinkedIn](https://www.linkedin.com/in/lucas-fernandes22/) | [Portfólio](https://luskafer.vercel.app/).
+📬 Conecte-se comigo: LinkedIn | Canva
  
 ---
 
 ### 🛠️ Tech Stack & Methodologies
 
-* **Core & Backend:** Java, Spring Boot, Django, Laravel, CodeIgniter
-* **Frontend:** Next.js, JavaScript
+* **Core & Backend:** Java, Spring Boot, PHP, Laravel, CodeIgniter, Django 
+* **Frontend:** React.js, JavaScript
 * **Architecture:** Domain-Driven Design (DDD), Clean Architecture (CA), Distributed Systems
 
 ---
